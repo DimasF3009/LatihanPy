@@ -5,8 +5,8 @@
 ![Gambar1](gambar/pic1.png)
 
 ## Menjumlahkan dua buah bilangan menggunakan variabel a dan b.
-#### - Mendefinisikan variable a dengan nilai 8
-#### - Mendefinisikan variable b dengan nilai 6
+#### - Mendefinisikan variable a dengan nilai 12
+#### - Mendefinisikan variable b dengan nilai 13
 #### - Mencetak nilai variable a dan b
 #### - Mencetak hasil penjumlahan a+b
 ![Gambar1](gambar/pic2.png)
