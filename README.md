@@ -30,4 +30,4 @@
 ![Gambar1](gambar/pic7.png)
 
 ## Menjalankan Program
-![Gambar1](gambar/pic8.png)
+![Gambar1](gambar/pic9.png)
